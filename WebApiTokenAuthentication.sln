@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiTokenAuthentication", "WebApiTokenAuthentication\WebApiTokenAuthentication.csproj", "{0E1261AC-57BE-445D-AE8F-0F1BC78F46A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AngularApp", "AngularApp\AngularApp.csproj", "{536590DB-9C54-46BB-810D-9B3D982E36B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{0E1261AC-57BE-445D-AE8F-0F1BC78F46A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0E1261AC-57BE-445D-AE8F-0F1BC78F46A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0E1261AC-57BE-445D-AE8F-0F1BC78F46A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{536590DB-9C54-46BB-810D-9B3D982E36B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{536590DB-9C54-46BB-810D-9B3D982E36B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{536590DB-9C54-46BB-810D-9B3D982E36B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{536590DB-9C54-46BB-810D-9B3D982E36B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
